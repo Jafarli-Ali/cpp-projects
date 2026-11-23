@@ -6,5 +6,7 @@ bu depo github'i kullanarak olusturdugum ilk depo
 ## Hobilerim
 -boks yapmak
 -yemek yemek
-
+##yazılım öğrenirken kullanılabilecek yerler;
+-youtube kanalları
+-www.btkakademi.com
 
